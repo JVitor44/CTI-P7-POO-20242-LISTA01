@@ -6,7 +6,7 @@ Este repositório reúne soluções de questões de programação em Java, da po
 ## Participantes da Equipe:
 
 - [João Vitor Oliveira de Sousa](https://github.com/JVitor44)
-- [Thiago Monteiro Barros](https://github.com/thiago)
+- [Thiago Monteiro Barros](https://github.com/Thiago007-py)
 - [André Gonçalves](https://github.com/sAndre)
-- [Arthur Marques](https://github.com/aarthur)
+- [Arthur Marques](https://github.com/arthurmarques2008)
 
