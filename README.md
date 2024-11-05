@@ -7,6 +7,6 @@ Este repositório reúne soluções de questões de programação em Java, da po
 
 - [João Vitor Oliveira de Sousa](https://github.com/JVitor44)
 - [Thiago Monteiro Barros](https://github.com/Thiago007-py)
-- [André Gonçalves](https://github.com/sAndre)
+- [André Gonçalves](https://github.com/dresilva21)
 - [Arthur Marques](https://github.com/arthurmarques2008)
 
